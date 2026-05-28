@@ -1,0 +1,19 @@
+{
+  "total_subjects": 55,
+  "total_sequences": 660,
+  "actions": [
+    "backhand",
+    "forehand_flat",
+    "kick_service",
+    "smash"
+  ],
+  "overall_skill_counts": {
+    "beginner": 372,
+    "expert": 288
+  },
+  "split_subject_counts": {
+    "test": 11,
+    "train": 35,
+    "val": 9
+  }
+}

@@ -1,0 +1,13 @@
+split,action_folder,sequence_count
+test,backhand,33
+test,forehand_flat,33
+test,kick_service,33
+test,smash,33
+train,backhand,105
+train,forehand_flat,105
+train,kick_service,105
+train,smash,105
+val,backhand,27
+val,forehand_flat,27
+val,kick_service,27
+val,smash,27

@@ -1,0 +1,3 @@
+method_group,model_or_exp,macro_f1,balanced_acc,roc_auc,notes,delta_vs_baseline_macro_f1,delta_vs_baseline_balanced_acc,delta_vs_baseline_roc_auc
+Baseline (best skill model on test),lstm_skill,0.7348332663720369,0.7416666666666667,0.8085648148148148,Single-seed test result from baseline notebook,0.0,0.0,0.0
+Advanced (best mean skill test across seeds),transformer_multitask,0.8249217364921546,0.8333333333333334,0.9185185185185185,"Mean across seeds (13,42,77)",0.09008847012011767,0.09166666666666667,0.10995370370370372

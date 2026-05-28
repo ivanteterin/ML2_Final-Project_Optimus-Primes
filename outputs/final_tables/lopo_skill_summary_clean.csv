@@ -1,0 +1,2 @@
+subjects_evaluated,n_test_seq_per_subject,macro_f1_mean,macro_f1_std,balanced_acc_mean,balanced_acc_std,roc_auc_note
+55,12,0.5777982314963922,0.2803766526001147,0.7893939393939393,0.2090140394491927,Not reported in LOPO because each held-out subject has a single class label.

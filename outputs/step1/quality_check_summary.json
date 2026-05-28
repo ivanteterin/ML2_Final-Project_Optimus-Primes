@@ -1,0 +1,24 @@
+{
+  "row_count": 660,
+  "valid_rows": 660,
+  "invalid_rows": 0,
+  "path_pattern_fail_rows": 0,
+  "label_mismatch_rows": 0,
+  "stroke_folder_mismatch_rows": 330,
+  "subject_unique_count": 55,
+  "missing_subjects": [],
+  "extra_subjects": [],
+  "subject_action_bad_repeat_patterns": 0,
+  "duplicate_repo_path_rows": 0,
+  "duplicate_raw_url_rows": 0,
+  "class_counts": {
+    "beginner": 372,
+    "expert": 288
+  },
+  "action_counts": {
+    "backhand": 165,
+    "forehand_flat": 165,
+    "kick_service": 165,
+    "smash": 165
+  }
+}

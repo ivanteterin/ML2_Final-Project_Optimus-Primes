@@ -1,0 +1,7 @@
+split,skill_label,sequence_count
+test,beginner,72
+test,expert,60
+train,beginner,240
+train,expert,180
+val,beginner,60
+val,expert,48

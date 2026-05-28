@@ -1,0 +1,7 @@
+FINAL MODEL SELECTION CLARIFICATION
+1) Best single run by validation-skill macro-F1: transformer_skill_only, seed 77.
+2) Best average test performance across seeds: transformer_multitask.
+3) For final reporting, present both:
+   - Primary robustness claim: transformer_multitask mean±std (addresses stroke confound via auxiliary action head).
+   - Selection traceability claim: best single validation-selected run outputs (per-action file already exported).
+4) LOPO reports Macro-F1 and Balanced Accuracy only; ROC-AUC is undefined in per-subject single-class test folds.
