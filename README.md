@@ -1,4 +1,4 @@
-# Final Project Report (English)
+# Final Project Report
 
 Skill Classification from Tennis Motion Sequences Using Subject-Disjoint Evaluation
 
